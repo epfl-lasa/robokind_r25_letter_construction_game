@@ -19,4 +19,4 @@ rosrun rviz rviz
  rosrun object_recognition_core detection -c ~/params.yaml
 ``` 
 
-Detailes of [Tabletop Segmentation and Object Detection library](http://wg-perception.github.io/tabletop/) 
+[Detailes of Tabletop Segmentation and Object Detection library](http://wg-perception.github.io/tabletop/) 
