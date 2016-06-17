@@ -5,7 +5,7 @@
 ```
  sudo apt-get install git-core cmake freeglut3-dev pkg-config build-essential libxmu-dev libxi-dev libusb-1.0-0-dev doxygen graphviz mono-complete
 ``` 
-- Execute this commands everytime you start the applications
+- Execute these commands everytime you start the application:
 ```
 roslaunch openni_launch openni.launch
 ``` 
